@@ -1,0 +1,26 @@
+﻿Build started 11/2/2014 08:48:31.
+     1>Project "C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\teste\teste\teste.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\arbitraryPrecision.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         C:\Arquivos de programas\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\arbitraryPrecision.exe.embed.manifest.res" Debug\arbitraryPrecision_manifest.rc 
+       Link:
+         C:\Arquivos de programas\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\teste\Debug\arbitraryPrecision.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Arquivos de programas\ATI Stream\lib\x86" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib openCL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\arbitraryPrecision.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\teste\Debug\arbitraryPrecision.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\teste\Debug\arbitraryPrecision.lib" /MACHINE:X86 Debug\arbitraryPrecision.exe.embed.manifest.res
+         Debug\hello.obj
+       Manifest:
+         C:\Arquivos de programas\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\arbitraryPrecision.exe.embed.manifest" /manifest Debug\arbitraryPrecision.exe.intermediate.manifest
+         C:\Arquivos de programas\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\arbitraryPrecision.exe.embed.manifest.res" Debug\arbitraryPrecision_manifest.rc 
+       LinkEmbedManifest:
+         C:\Arquivos de programas\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\teste\Debug\arbitraryPrecision.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Arquivos de programas\ATI Stream\lib\x86" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib openCL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\arbitraryPrecision.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\teste\Debug\arbitraryPrecision.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\teste\Debug\arbitraryPrecision.lib" /MACHINE:X86 Debug\arbitraryPrecision.exe.embed.manifest.res
+         Debug\hello.obj
+         teste.vcxproj -> C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\teste\Debug\arbitraryPrecision.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\arbitraryPrecision.unsuccessfulbuild".
+         Touching "Debug\arbitraryPrecision.lastbuildstate".
+     1>Done Building Project "C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\teste\teste\teste.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.64
